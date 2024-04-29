@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @YasharFaridi
-- 👀 I’m interested in artificial intelligence and robotic
-- 🌱 I’m currently learning Python programming
-- 💞️ I’m looking to collaborate on big Python and AI project
+- 👋 Hi, I’m @YasharFaridi you can call me YasharFRD 
+- 👀 I’m interested in artificial intelligence and frontend 
+- 🌱 I’m currently learning Python & JS
+- 💞️ I’m looking to collaborate on big AI and frontend development project
 - 📫 How to reach me : yasharfaridy@gmail.com
 
 <!---
